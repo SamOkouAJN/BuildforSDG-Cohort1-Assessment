@@ -30,6 +30,4 @@ const covid19ImpactEstimator = () => {
   return arr;
 };
 
-
-
 export default covid19ImpactEstimator;
